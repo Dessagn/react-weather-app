@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Weather App
 
 This is the companion code for the Beginner React series on the [Scotch School](https://school.scotch.io/).
@@ -14,3 +15,6 @@ yarn start
 ```
 
 Then open up your browser to http://localhost:8080, and you will be able to see the project.
+=======
+# react-weather-app
+>>>>>>> 29073c8ae368b94e54c17362607f2716f9ab39f1
